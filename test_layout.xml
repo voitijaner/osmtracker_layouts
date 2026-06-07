@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<layouts>
-    <layout name="root">
-        <row>
-            <button type="tag" label="Sitzbank" icon="bench" />
-            <button type="tag" label="Grillplatz" icon="bbq" />
-        </row>
-    </layout>
-</layouts>
